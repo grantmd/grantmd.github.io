@@ -1,0 +1,39 @@
+{
+  "subject": "acct:myles@mylesgrant.com",
+  "aliases": [
+    "https://www.mylesgrant.com/",
+    "https://sfba.social/@myles"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://www.mylesgrant.com/"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://sfba.social/@myles"
+    },
+    {
+      "rel": "me",
+      "href": "https://www.linkedin.com/in/mylesdgrant/"
+    },
+    {
+      "rel": "me",
+      "href": "https://github.com/grantmd"
+    },
+    {
+      "rel": "me",
+      "href": "https://bsky.app/profile/mylesdgrant.bsky.social"
+    },
+    {
+      "rel": "me",
+      "href": "https://sfba.social/@myles"
+    },
+    {
+      "rel": "me",
+      "href": "https://www.instagram.com/mylesdgrant/"
+    }
+  ]
+}
